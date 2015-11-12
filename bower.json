@@ -1,0 +1,25 @@
+{
+  "name": "berelindis-material",
+  "version": "0.0.0",
+  "authors": [
+    "Romain Bellande"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "index.php",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Materialize": "materialize#~0.97.2",
+    "roboto-fontface": "~0.4.3",
+    "bootstrap": "3.3.4"
+  },
+  "devDependencies": {}
+}

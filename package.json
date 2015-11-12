@@ -1,0 +1,26 @@
+{
+  "name": "berelindis-material",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romainbellande/berelindis-material.git"
+  },
+  "author": "Romain Bellande",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romainbellande/berelindis-material/issues"
+  },
+  "homepage": "https://github.com/romainbellande/berelindis-material#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-wiredep": "^2.0.0",
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.1.0"
+  }
+}
